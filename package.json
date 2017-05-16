@@ -1,0 +1,16 @@
+{
+  "name": "curly-doodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/psharneja/curly-doodle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #090909;
+}
+svg{
+   background: linear-gradient(to right, lightgray, white, lightgray, white, lightgray);
+   border: 1px solid #000;
+   margin-left: auto; 
+   margin-right: auto;
+   display: block;
+    font: 10px sans-serif;
+    shape-rendering: crispEdges;
+    box-shadow: 1px 1px 1px white;
+  }
+
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+  }
+ 
+ 
+  
+
+h1 {
+ text-align: center;
+ font-family:  cursive;
+ font-variant-caps: all-small-caps;
+    color: white;
+   }
+
+h2 {
+    color: white;
+}
+
+.navbar {
+    background-color: #00796b;
+    box-shadow: 0 -5px 25px 2px #FFDAB9;
+
+    border: none;
+
+}
+    
+.navbar-brand {
+    color: white;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke:  #000;
+    shape-rendering: crispEdges;
+}
+
+
+footer {
+                margin-top: 50px;
+                background-color: #464646;
+                box-shadow: 0 -5px 25px -5px #333;
+                padding: 30px; 
+                text-align: center;
+                color: white;
+                }
+           
+.fa {
+                color: #e3e3e3;
+                margin: 20px ;
+            }
+            footer .instagram:hover {
+                
+                color: #517fa6;
+                bottom:5px;
+                text-decoration: none;
+                transition: all 0.2s ease-in-out;
+            }
+            footer .facebook:hover {
+                
+                color: #3b5998;
+                bottom:5px;
+                text-decoration: none;
+                transition: all 0.2s ease-in-out;
+
+            }
+            footer .twitter:hover {
+                color: #6cadde;
+                bottom:5px;
+                text-decoration: none;
+                transition: all 0.2s ease-in-out;
+            }
